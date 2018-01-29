@@ -1,0 +1,34 @@
+body {
+  background-color: #F0F0F0 !important; }
+
+nav .fa {
+  vertical-align: middle; }
+
+nav .navbar-nav .nav-item {
+  padding-right: 15px;
+  padding-left: 15px; }
+  nav .navbar-nav .nav-item .active, nav .navbar-nav .nav-item a:hover {
+    color: #fd7e14 !important; }
+  nav .navbar-nav .nav-item .active {
+    border-bottom: 1px solid #fd7e14; }
+
+.benefits-portal {
+  background: url("../img/mountain.jpeg") no-repeat center top fixed;
+  background-size: cover !important;
+  background-attachment: fixed;
+  min-height: 350px; }
+  .benefits-portal .overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 350px;
+    width: 100%; }
+  .benefits-portal .divider {
+    width: 95%;
+    border-bottom: 1px solid white;
+    float: right;
+    opacity: 0.3; }
+
+.card {
+  border-radius: 0; }
+
+.text-orange {
+  color: #fd7e14; }
